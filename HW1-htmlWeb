@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      #intro,
+      p,
+      img,
+      strong,
+      ul {
+        color: yellow;
+      }
+      #main,
+      h2,
+      li {
+        color: red;
+      }
+    </style>
+    <h1>Hi</h1>
+    <p>Hello</p>
+    <div id="intro">
+      <p>
+        <img src="" alt="" />
+        <strong>yellow</strong>
+      </p>
+      <ul>
+        <li>red</li>
+        <li>red</li>
+        <li>red</li>
+      </ul>
+    </div>
+    <div id="main">
+      <h2>red</h2>
+      <p>yellow</p>
+      <h2>Red</h2>
+      <p>Yellow</p>
+    </div>
+  </body>
+</html>
